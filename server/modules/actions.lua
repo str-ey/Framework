@@ -1,0 +1,6 @@
+RegisterServerEvent('esx:playerPedChanged')
+RegisterServerEvent('esx:playerJumping')
+RegisterServerEvent('esx:enteringVehicle')
+RegisterServerEvent('esx:enteringVehicleAborted')
+RegisterServerEvent('esx:enteredVehicle')
+RegisterServerEvent('esx:exitedVehicle')
